@@ -2,6 +2,10 @@
 
 This file contains a few extra notes that did not fit naturally into `README.md` or `SOLUTION.md`.
 
+## Authorship note
+
+All commits in this repository are authored solely by Tatiana Tron. Any agent-tooling co-author trailers are stripped automatically by a local `commit-msg` hook so that the repository's contributor attribution stays accurate.
+
 ## Reproducibility
 
 * All randomness is seeded with `random_state = 42`:
